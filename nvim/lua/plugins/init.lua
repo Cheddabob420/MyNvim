@@ -27,7 +27,6 @@ return {
             require("configs.mason-conform")
         end,
     },
-    -- These are some examples, uncomment them if you want to see them work!
     {
         "neovim/nvim-lspconfig",
         event = { "BufReadPre", "BufNewFile" },
