@@ -60,4 +60,8 @@ return {
             harpoon:setup()
         end,
     },
+    {
+        "ThePrimeagen/vim-be-good",
+        cmd = "VimBeGood"
+    },
 }
