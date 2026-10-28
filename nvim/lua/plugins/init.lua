@@ -59,7 +59,5 @@ return {
             local harpoon = require("harpoon")
             harpoon:setup()
         end,
-    },	{                                                										"ThePrimeagen/vim-be-good",
- 								cmd = "VimBeGood"                            
-				},
+    },
 }
